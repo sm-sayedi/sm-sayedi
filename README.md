@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer/YouTuber)`**
 
+I'm a mobile developer and content creator currently focusing on Flutter. I publish video content on my [YouTube channel](https://www.youtube.com/@sm-sayedi) usually once a week.
+
    <p align="left">
       <a href="https://www.youtube.com/@sm-sayedi?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCENW7Isymv1R7Q6zVDDtteg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
