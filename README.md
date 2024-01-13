@@ -52,7 +52,7 @@
 [![4 Popular Apps Developed in Flutter #flutter #shorts](https://ytcards.demolab.com/?id=kgg_0wi_0yk&title=4+Popular+Apps+Developed+in+Flutter+%23flutter+%23shorts&lang=en&timestamp=1693661914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 Popular Apps Developed in Flutter #flutter #shorts")](https://www.youtube.com/watch?v=kgg_0wi_0yk)
 <!-- END YOUTUBE-CARDS -->
 
-<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sm-sayedi?sub_confirmation=1)-->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sm-sayedi?sub_confirmation=1)
 
 #
 
@@ -63,4 +63,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-sayedi&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<!-- <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"/>-->
