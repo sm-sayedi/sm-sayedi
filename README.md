@@ -28,11 +28,12 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br/>
+<br/>
 
 ### Connect with me
 
-[![website](./img/youtube-light.svg)](https://youtube.com/sm-sayedi#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/sm-sayedi#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/@sm-sayedi#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@sm-sayedi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sm-sayedi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sm-sayedi#gh-dark-mode-only)
@@ -51,7 +52,7 @@
 [![4 Popular Apps Developed in Flutter #flutter #shorts](https://ytcards.demolab.com/?id=kgg_0wi_0yk&title=4+Popular+Apps+Developed+in+Flutter+%23flutter+%23shorts&lang=en&timestamp=1693661914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "4 Popular Apps Developed in Flutter #flutter #shorts")](https://www.youtube.com/watch?v=kgg_0wi_0yk)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sm-sayedi?sub_confirmation=1)
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@sm-sayedi?sub_confirmation=1)-->
 
 #
 
@@ -63,17 +64,3 @@
 
 
 <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sm-sayedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm-sayedi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14186586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14186586" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sm-sayedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sm-sayedi" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-sayedi&show_icons=true&locale=en&layout=compact" alt="sm-sayedi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm-sayedi&show_icons=true&locale=en" alt="sm-sayedi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-sayedi&" alt="sm-sayedi" /></p>
-
