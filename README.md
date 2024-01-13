@@ -29,6 +29,15 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br/>
 
+### Connect with me
+
+[![website](./img/youtube-light.svg)](https://youtube.com/sm-sayedi#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/sm-sayedi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sm-sayedi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sm-sayedi#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 #
 
 ### 📺 Latest YouTube Videos
