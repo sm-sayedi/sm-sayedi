@@ -46,18 +46,14 @@
 
 #
 
+### 📊 Stats
+
+![Sayed Mahmood Sayedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-sayedi&theme=shadow_blue&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sm-sayedi&theme=shadow_blue&border_radius=4.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-sayedi&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-sayedi&label=Profile%20views&color=0e75b6&style=flat" alt="sm-sayedi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm-sayedi" alt="sm-sayedi" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **Flutter, Dart, Java**
-
-- 📫 How to reach me **smahmood.sayedi@gmail.com**
-
-- ⚡ Fun fact **It's still loading...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
