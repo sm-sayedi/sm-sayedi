@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/YouTuber)`**
 
-I'm a mobile developer and content creator currently focusing on Flutter. I publish video content on my [YouTube channel](https://www.youtube.com/@sm-sayedi) usually once a week.
+I'm a mobile developer and content creator currently focusing on Flutter. I publish video content on my [YouTube channel](https://www.youtube.com/@sm-sayedi?sub_confirmation=1) usually once a week.
 
    <p align="left">
       <a href="https://www.youtube.com/@sm-sayedi?sub_confirmation=1">
